@@ -12,7 +12,7 @@ contador = 0
 
 while contador < b:
     resultado += a 
-    contador += 1   
+    contador += 1  
 
 print(f"El resultado es: {resultado}")
 
